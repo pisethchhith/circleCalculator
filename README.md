@@ -1,5 +1,4 @@
 # Circle Calculator
-#### Video Demo: https://youtu.be/1-oNsZ5lZdY
 #### Description
 A calculator that can calculate the Area of Circle by entering Radius and Diameter.
 
